@@ -1,11 +1,11 @@
 /* ==UserStyle==
-@name           SearXNG Catppuccin
-@namespace      github.com/catppuccin/searxng
-@homepageURL    https://github.com/catppuccin/searxng
+@name           SearXNG Catppuccin (CatEngineer fork)
+@namespace      github.com/catengineer/catppuccin-searxng
+@homepageURL    https://github.com/catengineer/catppuccin-searxng
 @version        0.2.0
 @description    Soothing pastel theme for SearXNG
 @author         Catppuccin
-@updateURL      https://github.com/catppuccin/searxng/raw/main/catppuccin.user.css
+@updateURL      https://github.com/catengineer/catppuccin-searxng/raw/main/catppuccin.user.css
 @preprocessor   stylus
 @var select lighttheme "Light Variant" ["Latte*", "Frappe", "Macchiato", "Mocha"]
 @var select darktheme "Dark Variant" ["Latte", "Frappe", "Macchiato", "Mocha*"]
@@ -32,6 +32,7 @@ url-prefix("https://saber.tk/"),
 url-prefix("https://search.0relay.com/"),
 url-prefix("https://search.affusio.com/"),
 url-prefix("https://search.bus-hit.me/"),
+url-prefix("https://search.cat.engineer/"),
 url-prefix("https://search.chemicals-in-the-water.eu/"),
 url-prefix("https://search.cronobox.one/"),
 url-prefix("https://search.disroot.org/"),
